@@ -8,9 +8,9 @@
 #### 5. With treatment Capomulin the correlation between mouse weight, and average tumor volume is 0.84. It is a strong positive correlation, when the mouse weight increases the average tumor volume also increases.
 #### 6. The regression analysis helped to understand how much the average tumor volume (dependent variable) will change when weight of mice change (independent variables) with the Capomulin treatment. The R-squared value is 0.71, which means 71% the model fit the data, wich is fairely good to predict the data from the model.  *(If you analyze a physical process and have very good measurements, you might expect R-squared values over 90%).*
 
-#*************************************
-#Instructions
-#*************************************
+***
+# Instructions
+***
 Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
 Use the cleaned data for the remaining steps.
 Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
