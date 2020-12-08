@@ -1,4 +1,3 @@
-# matplotlib_challenge
 ***
 # Observations or Inferences
 ***
